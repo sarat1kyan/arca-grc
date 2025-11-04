@@ -37,7 +37,7 @@
 	@apply text-gray-50 bg-blue-600 hover:bg-blue-500;
 }
 @utility btn-mini-secondary {
-	@apply text-gray-50 bg-pink-500 hover:bg-pink-400;
+	@apply text-gray-50 bg-cyan-500 hover:bg-cyan-400;
 }
 @utility btn-mini-tertiary {
 	@apply text-gray-50 bg-sky-500 hover:bg-sky-400;
