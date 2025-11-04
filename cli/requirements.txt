@@ -1,0 +1,7 @@
+pandas
+rich
+requests
+click
+pyyaml
+icecream
+dotenv
